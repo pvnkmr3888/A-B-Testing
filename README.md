@@ -12,9 +12,14 @@ The metrics for conversion are unique to each website. For instance, in the case
 
 
 
-Conclusion
+By conducting a-b testing which is available in pdf and html, we can conclude that
 
-From the above A/B tests, we found that the control campaign resulted in more sales and engagement from the visitors. More products were viewed from the control campaign, resulting in more products in the cart and more sales. But the conversation rate of products in the cart is higher in the test campaign. The test campaign resulted in more sales according to the products viewed and added to the cart. And the control campaign results in more sales overall. So, the Test campaign can be used to market a specific product to a specific audience, and the Control campaign can be used to market multiple products to a wider audience.
+The control campaign resulted in more sales and engagement from the visitors. 
 
-.
+More products were viewed from the control campaign, resulting in more products in the cart and more sales. But the conversation rate of products in the cart is higher in the test campaign. 
+
+The test campaign resulted in more sales according to the products viewed and added to the cart. 
+
+And the control campaign results in more sales overall. So, the Test campaign can be used to market a specific product to a specific audience, and the Control campaign can be used to market multiple products to a wider audience.
+
  
