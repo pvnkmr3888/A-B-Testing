@@ -10,7 +10,7 @@ The version that moves your business metric(s) in the positive direction is know
 
 The metrics for conversion are unique to each website. For instance, in the case of eCommerce, it may be the sale of the products. Meanwhile, for B2B, it may be the generation of qualified leads.
 
-
+Result
 
 By conducting a-b testing which is available in pdf and html, we can conclude that
 
